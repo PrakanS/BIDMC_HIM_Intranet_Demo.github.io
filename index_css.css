@@ -252,7 +252,7 @@ tr:nth-child(even) {
 	color: white;
 }
 
-@media all and (max-width: 640px) {
+@media all and (max-width: 360px) {
     main {
     flex-direction: column;
     flex-grow: 1;
